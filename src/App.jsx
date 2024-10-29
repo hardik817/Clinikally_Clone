@@ -1,8 +1,8 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './ui-components/Navbar';
-import Slider from './ui-components/Slider';
-import ProductCard from './ui-components/ProductCard';
-import Product from './ui-components/Product';
+import Slider from './ui-components/slider';
+import ProductCard from './ui-components/productcard';
+import Product from './ui-components/product';
 
 export default function App() {
   return (
